@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+John+Paul" />
 </h1>
 
-<h3 align="center">A passionate software developer from Cebu City, Philippines</h3>
+<h3 align="center">A passionate full-stack developer from Cebu City, Philippines</h3>
 
 <br/>
 
